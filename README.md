@@ -7,7 +7,7 @@
 
 # TO CLONE MY ENTIRE SYSTEM INCLUDING DOTFILES AND APPS USE THE FOLLOWING COMMAND
 
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/TanishBhandari286/.dotfiles/main/mac-setup.sh)"
 ```
 
