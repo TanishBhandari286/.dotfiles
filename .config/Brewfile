@@ -1,4 +1,7 @@
 tap "homebrew/bundle"
+brew "mas"
+cask "datagrip"
+brew "atuin"
 cask "zen-browser"
 cask "docker"
 brew "devcontainer"
