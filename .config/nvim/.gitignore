@@ -1,6 +1,10 @@
-tags
-test.sh
+plugin
+custom
+spell
+ftplugin
+syntax
+coc-settings.json
 .luarc.json
-nvim
-
-spell/
+lazy-lock.json
+after
+**/.DS_Store

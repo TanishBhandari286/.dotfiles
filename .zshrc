@@ -91,9 +91,7 @@ alias pr='portal recieve'
 alias bi='brew install'
 alias bic='brew install --cask'
 alias lg='lazygit'
-alias gc='git commit .'
-alias ga='git add .'
-alias gp='git push -u origin master'
+alias gi='git init'
 # Shell Intergrations
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
