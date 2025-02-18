@@ -62,6 +62,7 @@ alias .5='cd ../../../../..'
 alias batfzf='fzf --preview='bat {}''
 alias yr='~/.config/yabai/scripting-addition.sh'
 alias syncup='~/automation/backup_to_clg.sh'
+alias run='~/codes/run.sh'
 alias nvimfzf='nvim $(fzf --preview='bat {}')'
 
 

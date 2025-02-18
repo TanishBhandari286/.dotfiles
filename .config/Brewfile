@@ -1,5 +1,7 @@
 tap "homebrew/bundle"
+cask "zen-browser"
 cask "docker"
+brew "devcontainer"
 cask "chatgpt"
 brew "clang-build-analyzer"
 cask "visual-studio-code"
