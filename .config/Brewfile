@@ -1,4 +1,6 @@
 tap "homebrew/bundle"
+cask "devpod"
+brew "p7zip"
 brew "mas"
 cask "datagrip"
 brew "atuin"
